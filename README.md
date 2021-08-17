@@ -2,7 +2,7 @@
 
 Create your own branch for code sharing
 
-###Tasks to do in Demo mode:
+### Tasks to do in Demo mode:
 
 - [ ] implement result sharing
 - [ ] implement result saving
@@ -11,6 +11,7 @@ Create your own branch for code sharing
 - [ ] add dynamic adding and removing components
 
 
+### UML class diagram:
 
 ![umlClassDiagram](./umlClassDiagram.png)
 
