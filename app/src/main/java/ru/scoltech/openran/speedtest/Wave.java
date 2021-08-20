@@ -1,4 +1,4 @@
-package com.example.wavemockapplication;
+package ru.scoltech.openran.speedtest;
 
 import android.content.Context;
 import android.graphics.Canvas;

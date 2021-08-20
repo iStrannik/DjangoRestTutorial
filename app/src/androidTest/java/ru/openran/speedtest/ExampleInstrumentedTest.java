@@ -1,4 +1,4 @@
-package com.example.wavemockapplication;
+package ru.openran.speedtest;
 
 import android.content.Context;
 

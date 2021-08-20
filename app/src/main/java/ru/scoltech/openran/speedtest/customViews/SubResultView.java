@@ -1,11 +1,11 @@
-package com.example.wavemockapplication.CustomViews;
+package ru.scoltech.openran.speedtest.customViews;
 
 import android.content.Context;
 import android.util.AttributeSet;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.example.wavemockapplication.R;
+import ru.scoltech.openran.speedtest.R;
 
 public class SubResultView extends LinearLayout {
 

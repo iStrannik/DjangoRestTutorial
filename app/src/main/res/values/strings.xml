@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Wave Mock Application</string>
+    <string name="app_name">App</string>
     <string name="mbps">Mbps</string>
     <string name="ping">ping</string>
     <string name="download">Download</string>
